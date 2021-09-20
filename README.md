@@ -16,7 +16,7 @@ Grupo conformado por los integrantes:
 - Sebastian Hernandez
 - Jesús Romero
 - Manuel Aranguri
-- Emmanuel Ticona
+- Emanuel Ticona
 - Gabriel Vásquez
 
 ## Licencia 📄
