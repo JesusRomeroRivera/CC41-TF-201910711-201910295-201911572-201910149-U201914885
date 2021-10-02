@@ -1,13 +1,5 @@
 # CC41-TF-201910711-201910295-201911572-201910149-U201914885
-Trabajo parcial del curso Complejidad Algorítmica
-
-## Comenzando 🚀
-
-## Despliegue 📦
-
-Tener conexión a internet activa.
-
-## Construido con 🛠️
+Entrega parcial del curso Complejidad Algorítmica
 
 ## Autores ✒️
 
@@ -18,7 +10,3 @@ Grupo conformado por los integrantes:
 - Manuel Aranguri
 - Emanuel Ticona
 - Gabriel Vásquez
-
-## Licencia 📄
-
-Licencia Apache 2.0
