@@ -15,6 +15,7 @@
                  insertamos z dentro de la cola I
 ```
 
+
 ## Análisis asintótico
 
 - El algoritmo DFS es unAlgoritmo recursivo, Se necesita una pila de trabajo recursiva, por lo que su complejidad espacial es O (| V |). 
