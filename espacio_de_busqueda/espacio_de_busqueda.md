@@ -14,7 +14,7 @@ Para el problema se tiene los siguientes pasos para describir el proceso de bús
 
  ![](nodes_depot_customer.png)
 
-- Luego, con el fin de satisfacer todos los pedidos en el menor tiempo posible, las rutas que los vehículos pueden tomar, puede verse muy diversificada, provocando retrasos y aumento de costo para solventar dichos retrasos.
+- Luego, con el fin de satisfacer todos los pedidos en el menor tiempo posible, las rutas que los vehículos pueden tomar puede verse muy diversificada, provocando retrasos y aumento de costo para solventar dichos retrasos.
 
 ![](routes_diverse.png)
 
