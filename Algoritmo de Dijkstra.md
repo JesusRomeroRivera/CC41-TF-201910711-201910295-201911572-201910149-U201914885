@@ -30,4 +30,6 @@ El tiempo de ejecución (orden de complejidad) del algoritmo de Dijkstra:
 - En conjunto estas dos partes toman un tiempo O(Vlog(V))
 - El ciclo for es ejecutado por cada arista, y en cada uno, la funcion adicionar toma un tiempo O(Elog(V)).
 - Luego, el tiempo de ejecución combinado es O((V+E)log(V)).
+- La complejidad computacional, considerando que el algoritmo tiene n-1 iteraciones como maximo por los vertices añadidos, y que en cada iteracion se identifica un vertice (n-1) y se realiza una suma y comparación, en cada iteración se tienen 2(n-1) operaciones. 
+- Entonces el algoritmo realiza O(n^2) operaciones
 
