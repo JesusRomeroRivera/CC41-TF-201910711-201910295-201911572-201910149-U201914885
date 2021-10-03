@@ -9,4 +9,4 @@
 - 1 Galón = S./ 11.12 => S./11.00
 - 1 Galón = 40 a 43km => 40km
 
-Costo = (Distancia recorrida/Distancia máxima de cada galón) * precio del galón
+Costo = (Distancia recorrida / Distancia máxima de cada galón) * precio del galón
