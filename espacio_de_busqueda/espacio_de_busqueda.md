@@ -22,8 +22,7 @@ Para el problema se tiene los siguientes pasos para describir el proceso de bús
 
 ![](statue_start_final.png)
 
-<center>ESTADO INCIAL----------------------------------------------POSIBLE ESTADO FINAL
-</center>
+<center>ESTADO INCIAL----------------------------------------------POSIBLE ESTADO FINAL</center>
 
 ![](statue_start_final_v2.png)
 
