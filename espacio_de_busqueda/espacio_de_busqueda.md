@@ -36,4 +36,4 @@ Para el problema se tiene los siguientes pasos para describir el proceso de bús
 ### Estructura de datos: Grafos
 
 ## Transiciones 
-![](transitions.png)
+![](transitions.PNG)
