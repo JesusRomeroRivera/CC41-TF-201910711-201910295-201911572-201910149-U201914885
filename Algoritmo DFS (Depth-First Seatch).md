@@ -1,6 +1,6 @@
 # Algoritmo Depth-First Search (DFS)
 ----
-## Pseudocódigo en alto nivel
+## Pseudocódigo
 ----
 	DFS(G, u)
     u.visitado = true
