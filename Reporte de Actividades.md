@@ -14,4 +14,3 @@ N° de Actividad | Actividad | Asignados | Tags | Fecha de entrega |
 10|Definir algoritmo integrante 5 en alto nivel con posible análisis asintótico. | José Sebastián Hernández |`Documentation  Enhancement`|3/10/2021
 11|Producir reporte de actividades.| José Sebastián Hernández |`Documentation `|3/10/2021
 12|Incluir URL de video en youtube (u otro servicio) no listado (compartido por URL, privado) en el archivo README.md de un video elaborado de máximo 1 minuto explicando actividades realizadas.|Gabriel Vásquez|`Documentation `|3/10/2021
-
