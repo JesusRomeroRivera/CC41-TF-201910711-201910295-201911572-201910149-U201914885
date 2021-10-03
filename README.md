@@ -10,3 +10,7 @@ Grupo conformado por los integrantes:
 - Manuel Aranguri
 - Emanuel Ticona
 - Gabriel Vásquez
+
+## Video explicatorio de las actividades realizadas
+
+https://youtu.be/HLXOjuXFlyc
