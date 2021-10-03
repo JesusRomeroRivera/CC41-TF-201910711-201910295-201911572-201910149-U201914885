@@ -4,7 +4,7 @@ N° de Actividad | Actividad | Asignados | Tags | Fecha de entrega |
 -|-|-|-|-
 1| Actualizar lista de Integrantes.| Jesus Romero |  `Documentation` | 27/09/2021
 2|Generar primera versión de almacenes. | Emanuel Ticona |`Enhancement`|30/09/2021
-3|Generar primera versión de puntos entrega.| Emanuel Ticona |`Enhancement`|1/09/2021
+3|Generar primera versión de puntos entrega.| Emanuel Ticona |`Enhancement`|1/10/2021
 4|Generar descripción de datos de vehículos de entrega indicando según su criterio, calculo de costo.| Jesus Romero |  `Documentation`|3/10/2021
 5|Definir espacio de búsqueda, estado inicial, posible estado final, transiciones.| Manuel Aranguri |  `Documentation`|3/10/2021
 6|Definir algoritmo integrante 1 en alto nivel con posible análisis asintótico. | Jesus Romero | `Documentation Enhancement`|3/10/2021
