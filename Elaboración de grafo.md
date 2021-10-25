@@ -1,3 +1,4 @@
+```
 import csv
 import numpy as np
 import matplotlib.pyplot as plt
@@ -39,3 +40,4 @@ for i, _ in enumerate(city):
     if city[i][0] == city[j][0] or city[i][1] == city[j][1]: graph[i].append(j)
 write_csv(['x', 'y', 'type'], city, 'city.csv')
 write_csv(None, graph, 'graph.csv')
+```
