@@ -1,10 +1,10 @@
-def dijkstra(G, s):
+def dijkstra(G, pos):
   n = len(G)
   visited = [False]*n
   path = [None]*n
   cost = [math.inf]*n
-  cost[s] = 0
-  q = [(0, s)]
+  cost[pos] = 0
+  q = [(0, pos)]
   while q:
     g_u, u = hq.heappop(queue)
     if not visited[u]:
