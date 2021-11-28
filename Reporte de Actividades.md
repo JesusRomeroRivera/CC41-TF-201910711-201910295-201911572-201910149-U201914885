@@ -14,3 +14,18 @@ N° de Actividad | Actividad | Asignados | Tags | Fecha de entrega |
 10|Definir algoritmo integrante 5 en alto nivel con posible análisis asintótico. | José Sebastián Hernández |`Documentation  Enhancement`|3/10/2021
 11|Producir reporte de actividades.| José Sebastián Hernández |`Documentation `|3/10/2021
 12|Incluir URL de video en youtube (u otro servicio) no listado (compartido por URL, privado) en el archivo README.md de un video elaborado de máximo 1 minuto explicando actividades realizadas.|Gabriel Vásquez|`Documentation `|3/10/2021
+13|Creación de datasets y algoritmo para generación de grafo inicial |Gabriel Vásquez|`Documentation `|20/10/2021
+14|Avances algoritmo integrante 1| Jesus Romero |`Documentation `|20/11/2021
+15|Avances algoritmo integrante 2| Gabriel Vásquez |`Documentation `|20/11/2021
+16|Avances algoritmo integrante 3| Manuel Aranguri |`Documentation `|20/11/2021
+17|Avances algoritmo integrante 4| Emanuel Ticona |`Documentation `|20/11/2021
+18|Avances algoritmo integrante 5| José Sebastián Hernández |`Documentation `|20/11/2021
+19|Realización algoritmo división de puntos de entrega por almacén| José Sebastián Hernández |`Documentation `|27/11/2021
+20|Realización algoritmo final integrante 1| Jesus Romero |`Documentation `|27/11/2021
+21|Realización algoritmo final integrante 2| Gabriel Vásquez |`Documentation `|27/11/2021
+22|Realización algoritmo final integrante 3| Manuel Aranguri |`Documentation `|27/11/2021
+23|Realización algoritmo final integrante 4| Emanuel Ticona |`Documentation `|27/11/2021
+24|Realización algoritmo final integrante 5| José Sebastián Hernández |`Documentation `|27/11/2021
+25|Realización informe final| Manuel Aranguri |`Documentation `|27/11/2021
+26|Realización video de presentación y subida a Youtube| Emanuel Ticona |`Documentation `|27/11/2021
+27|Actualización reporte de actividades.| José Sebastián Hernández |`Documentation `|27/11/2021
