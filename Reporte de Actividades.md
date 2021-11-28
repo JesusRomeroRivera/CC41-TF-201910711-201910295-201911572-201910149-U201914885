@@ -1,5 +1,5 @@
 # Reporte de Actividades 📝
-Lista de actividades realizadas para el [Trabajo Parcial](https://github.com/JesusRomeroRivera/cc41-tf-201910711-201910295-201911572-201910149-201914885/milestone/1?closed=1)
+Lista de actividades realizadas para el [Trabajo Parcial y Final](https://github.com/JesusRomeroRivera/cc41-tf-201910711-201910295-201911572-201910149-201914885/milestone/1?closed=1)
 N° de Actividad | Actividad | Asignados | Tags | Fecha de entrega | 
 -|-|-|-|-
 1| Actualizar lista de Integrantes.| Jesus Romero |  `Documentation` | 27/09/2021
